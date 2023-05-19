@@ -1,5 +1,5 @@
- Python function to sum all the numbers in a list.
-   
+Write a Python program to reverse a string.
+  
 def reverse_string(string):
     return string[::-1]
 

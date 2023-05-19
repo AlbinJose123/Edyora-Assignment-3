@@ -1,3 +1,4 @@
+# Python function to sum all the numbers in a list.
 def sum_list_numbers(numbers):
     return sum(numbers)
 sample_list = [8, 2, 3, 0, 7]
